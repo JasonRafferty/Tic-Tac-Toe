@@ -134,11 +134,11 @@ public class TicTacToe implements ActionListener{
 	        e.printStackTrace();
 	    }
 
-	    // Remove the existing components
+	    //Remove the existing components
 	    frame.getContentPane().removeAll();
 	    frame.getContentPane().add(titlePagePanel);
 
-	    // Revalidate and repaint the frame to reflect the changes
+	    //Revalidate and repaint the frame to reflect the changes
 	    frame.revalidate();
 	    frame.repaint();
 	}
