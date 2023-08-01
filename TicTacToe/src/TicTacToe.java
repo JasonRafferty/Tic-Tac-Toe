@@ -64,7 +64,7 @@ public class TicTacToe implements ActionListener{
 		frame.add(button_panel);
 		
 	
-		//Schedule
+		//Schedule for first turn
 		addTitlePage();
 		Timer timer = new Timer(2000, e -> removeTitlePage());
 	    timer.setRepeats(false); // Set to false to execute only once
