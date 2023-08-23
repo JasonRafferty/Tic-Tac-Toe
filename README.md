@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Project
+# Tic-Tac-Toe | Project 1
 
 ## Intro
 As I continue to progress in my career in software automation, I'm devoting time to strengthen my fundamental skills in Java. The best way to learn, in my opinion, is by doing! So, I've embarked on a mission to create fun, engaging projects to not only enhance my understanding but to also demonstrate my capabilities.
