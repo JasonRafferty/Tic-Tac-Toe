@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Project
 
-![image](https://github.com/JasonRafferty/Tic-Tac-Toe/blob/master/TicTacToe/src/Demo2.JPG" alt="Diagram" style="width: 400px; height: auto;)
+![image](https://github.com/JasonRafferty/Tic-Tac-Toe/blob/master/TicTacToe/src/Demo2.JPG)
 
 
 
